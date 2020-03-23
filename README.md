@@ -16,12 +16,12 @@ Output: [Node0] -> [Node2] - >null
 * public static LinkedListNode insertionSort(LinkedListNode head)
 Sorts the list in place using Insertion Sort Algorithm.
 
-*public static LinkedListNode mergeSort(LinkedListNode head)
+* public static LinkedListNode mergeSort(LinkedListNode head)
 Sorts the list using Merge Sort Algorithm.
 
-*public static LinkedListNode removeCentralNode(LinkedListNode head)
+* public static LinkedListNode removeCentralNode(LinkedListNode head)
 Removes the central node of the list, remove the first of the two central nodes if it has
 a an even number of elements.
 
-*public static boolean palindrome(LinkedListNode head)
+* public static boolean palindrome(LinkedListNode head)
 Determines if the list is a Palindrome.
