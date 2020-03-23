@@ -1,21 +1,3 @@
-public class LinkedListNode {
-	public int value;
-	public LinkedListNode next;
-
-	public LinkedListNode(int value) {
-		this.value = value;
-	}
-
-	public int getValue() {
-		return value;
-	}
-
-	public LinkedListNode getNext() {
-		return next;
-	}
-
-}
-
 public class MySpecialLinkedListUtils {
 	public static double[] summary(LinkedListNode head) {
 		LinkedListNode temp = head;
