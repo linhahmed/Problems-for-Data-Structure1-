@@ -3,12 +3,12 @@
 Class LinkedListNode
 
 Member Variables:
-● value (An integer value contained by the node)
-● next(Next Node in the list)
+* value (An integer value contained by the node)
+* next(Next Node in the list)
 Member Methods:
-public int getValue()
+* public int getValue()
 Returns the value contained in the node.
-public LinkedListNode getNext()
+* public LinkedListNode getNext()
 Returns the “next” of the node.
 
 Class MySpecialLinkedListUtils
