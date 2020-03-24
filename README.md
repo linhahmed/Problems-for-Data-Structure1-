@@ -5,6 +5,7 @@ Class LinkedListNode
 Member Variables:
 * value (An integer value contained by the node)
 * next(Next Node in the list)
+
 Member Methods:
 * public int getValue()
 Returns the value contained in the node.
