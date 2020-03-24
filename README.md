@@ -1,4 +1,18 @@
-# sheet2
+# Implement the following in Java:
+
+Class LinkedListNode
+
+Member Variables:
+● value (An integer value contained by the node)
+● next(Next Node in the list)
+Member Methods:
+public int getValue()
+Returns the value contained in the node.
+public LinkedListNode getNext()
+Returns the “next” of the node.
+
+Class MySpecialLinkedListUtils
+
 * public static double[] summary(LinkedListNode head)
 Returns the sum, average, median, maximum and minimum
 of the values in the list
